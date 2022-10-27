@@ -25,3 +25,7 @@ def dateMonth():
         if int(n) < int(data1[1]):
             data1[1] = n
     print(data1[0], "-", data1[1])
+
+
+
+dateMonth()
